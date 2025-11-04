@@ -1,0 +1,6 @@
+1. liczbowy int ,przecinkowe double i decimal , logiczne bool i znakowe string:
+wszystkie z tych typów zmiennych zostały przypisane do odpowiednich wartości jak nazwa aplikacji , średnia ocena , rabat
+2. operator odejmowania mnożenia i dzielenia - * /
+3. "Aplikacja Sklep Online ma 150 produktów."
+4. true ponieważ oba warunki są spełniane (wartość średniej jest większa niż podana wartość i czyDostępna ma wartość true)
+5.dlatego że dodawanie cen do siebie zawsze da nam poprawny wynik a nie np. 0.000000000000000001
